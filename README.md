@@ -33,6 +33,11 @@ configured for multiple benchmarks and models. Detailed description is provided 
 WANDB account is required, since it was used as experiment management tool. Numerical results of experiments
 are provided in the data directory, one file for each benchmark.
 
+WANDB projects are available under following links:
+* [https://wandb.ai/kzajac/fsnn-static-affine](https://wandb.ai/kzajac/fsnn-static-affine)
+* [https://wandb.ai/kzajac/fsnn-wiener-hammerstein/overview](https://wandb.ai/kzajac/fsnn-wiener-hammerstein/overview)
+* [https://wandb.ai/kzajac/fsnn-silverbox](https://wandb.ai/kzajac/fsnn-silverbox)
+
 ## Requirements
 
 Listed in `requirements.txt` file, to run using Docker see: [Dockerfile @ dynamical-neural-networks]([https://github.com/kzajac97/dynamical-neural-networks/tree/main](https://github.com/kzajac97/dynamical-neural-networks/blob/main/Dockerfile)). 
